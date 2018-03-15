@@ -9,5 +9,6 @@ Green
 Unicorn
 Yellow
 Red 
+Indigo
 These are the colors of rainbows.
 And the Unicorn.
